@@ -5,4 +5,6 @@
 
 Aplicação desenvolvida em [CakePHP](https://cakephp.org) 3.x.
 
+# Usuário: admin<br>
+# Senha: 12345678
 
