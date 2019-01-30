@@ -1,4 +1,4 @@
-# Cadastro de Alunos
+# Cadastro de Usuários e Alunos
 Cadastro de Alunos - CakePHP
 
 
